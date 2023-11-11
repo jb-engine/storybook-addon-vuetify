@@ -8,7 +8,10 @@
     "dist/**/*"
   ],
   "repository": "https://github.com/lolvOid/storybook-addon-vuetify1.git",
-  "author": "devs@freddielin.work",
+  "author": {
+    "email": "devs@freddielin.work",
+    "name": "FredD"
+  },
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
