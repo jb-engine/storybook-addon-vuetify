@@ -1,11 +1,11 @@
-# storybook-addon-vuetify1
+# storybook-addon-vuetify 1.*
 
 Storybook's Vuetify Addon
 
 **Install**
 
 ```sh
-yarn add -D storybook-addon-vuetify1
+yarn add -D storybook-addon-vuetify
 ```
 
 **Usage**
@@ -15,7 +15,7 @@ Add `storybook-addon-vuetify1` addon to `.storybook/main.js`
 ```js
 module.exports = {
   addons: [
-    'storybook-addon-vuetify1'
+    'storybook-addon-vuetify'
   ]
 }
 ```
@@ -23,7 +23,7 @@ module.exports = {
 Add `vueitfy` decorator to `.storybook/preview.js`
 
 ```js
-import { withVuetify } from 'storybook-addon-vuetify1/dist/decorators'
+import { withVuetify } from 'storybook-addon-vuetify/dist/decorators'
 
 export const decorators = [
   withVuetify
