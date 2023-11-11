@@ -10,7 +10,7 @@ yarn add -D storybook-addon-vuetify
 
 **Usage**
 
-Add `storybook-addon-vuetify1` addon to `.storybook/main.js`
+Add `storybook-addon-vuetify` addon to `.storybook/main.js`
 
 ```js
 module.exports = {
