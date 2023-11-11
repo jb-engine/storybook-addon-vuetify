@@ -1,15 +1,14 @@
 {
-  "name": "storybook-addon-vuetify1",
+  "name": "storybook-addon-vuetify",
   "version": "1.0.0",
-  "description": "Storybook AddOn Vuetify 1",
+  "description": "Storybook AddOn Vuetify-1",
   "main": "dist/preset.js",
   "files": [
     "dist/*.js",
     "dist/**/*"
   ],
-  "repository": "https://github.com/lolvOid/storybook-addon-vuetify1.git",
+  "repository": "https://github.com/lolvOid/storybook-addon-vuetify.git",
   "author": {
-    "email": "devs@freddielin.work",
     "name": "FredD"
   },
   "license": "MIT",
