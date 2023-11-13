@@ -1,6 +1,6 @@
 {
   "name": "storybook-addon-vuetify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Storybook AddOn Vuetify-1",
   "main": "dist/preset.js",
   "files": [
