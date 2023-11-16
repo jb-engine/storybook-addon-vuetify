@@ -9,7 +9,7 @@ The **storybook-addon-vuetify** is an extension for Storybook that enhances your
 To get started, install the addon using Yarn:
 
 ```sh
-yarn add -D storybook-addon-vuetify
+yarn add -D storybook-addon-vuetify@github.com:jb-engine/storybook-addon-vuetify#build-release
 ```
 
 #### Configuration
